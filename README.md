@@ -14,3 +14,4 @@ This hadn't been done before on the entire Internet, in a browser-native way. I 
 
 * Me demoing it: https://youtu.be/TOyQaetnnG4
 
+![Demo](ss-demo-dnd-up.png)
