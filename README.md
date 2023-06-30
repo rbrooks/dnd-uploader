@@ -9,3 +9,8 @@
 * **Fast** - Streams directly thru Nginx unbeknownst to your slow App processes. Zero RAM inflation to your Ruby processes.
 
 This hadn't been done before on the entire Internet, in a browser-native way. I had to reverse-engineer this [Silverlight plugin's C# Code](https://github.com/dmitry-dedukhin/MrUploader/blob/master/MrUploader/Code/Uploader.cs)
+
+## Demo
+
+* Me demoing it: https://youtu.be/TOyQaetnnG4
+
