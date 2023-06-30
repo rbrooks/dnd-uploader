@@ -12,6 +12,4 @@ This hadn't been done before on the entire Internet, in a browser-native way. I 
 
 ## Demo
 
-* Me demoing it: https://youtu.be/TOyQaetnnG4
-
-![Demo](ss-demo-dnd-up.png)
+[![Demo](ss-demo-dnd-up.png)](https://youtu.be/TOyQaetnnG4)
